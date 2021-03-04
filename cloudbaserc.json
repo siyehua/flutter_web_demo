@@ -4,5 +4,9 @@
   "functionRoot": "./functions",
   "functions": [
    
-  ]
+  ],
+  "framework": {
+        "name": "hexo",
+        
+    }
 }
