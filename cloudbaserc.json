@@ -6,7 +6,6 @@
    
   ],
   "framework": {
-        "name": "hexo",
-        
+        "name": "hexo"
     }
 }
